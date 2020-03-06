@@ -2,6 +2,7 @@ import os
 import sys
 import yaml
 # commit
+# in this way
 sys.path.insert(0, os.path.join(os.getcwd(), 'lib'))
 from detection import detections, plot_save_result
 
