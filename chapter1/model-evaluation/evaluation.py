@@ -18,3 +18,7 @@ savePath = 'data/results'
 
 results, classes = detections(cfg, gtFolder, detFolder, savePath)
 plot_save_result(cfg, results, classes, savePath)
+
+#
+#show hello 
+import numpy as np
