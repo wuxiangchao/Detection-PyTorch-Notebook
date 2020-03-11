@@ -18,14 +18,3 @@ savePath = 'data/results'
 
 results, classes = detections(cfg, gtFolder, detFolder, savePath)
 plot_save_result(cfg, results, classes, savePath)
-
-#
-#show hello 
-import numpy as np
-
-import matplotlib
-
-# test
-# test the commit two
-import keras
-#see the test
